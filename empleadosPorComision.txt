@@ -1,0 +1,25 @@
+Empleado por comision # 1. 
+Sueldo base: 1,000,000
+Comision del mes: 2,000,000 x 20% = 400,000
+Total sueldo: 1,400,000
+
+Empleado por comision # 2. 
+Sueldo base: 1,000,000
+Comision del mes: 3,000,000 x 20% = 600,000
+Total sueldo: 1,600,000
+
+Empleado por comision # 3. 
+Sueldo base: 1,000,000
+Comision del mes: 5,000,000 x 20% = 1,000,000
+Total sueldo: 2,000,000
+
+Empleado por comision # 4. 
+Sueldo base: 1,000,000
+Comision del mes: 1,000,000 x 20% = 200,000
+Total sueldo: 1,200,000
+
+Empleado por comision # 5. 
+Sueldo base: 1,000,000
+Comision del mes: 4,000,000 x 20% = 800,000
+Total sueldo: 1,800,000
+

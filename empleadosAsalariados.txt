@@ -1,0 +1,30 @@
+Empleado asalariado # 1: 
+Sueldo base: 1,000,000
+Subsidios: 226,779
+Descuentos de ley: 80,000
+Total a recibir: 1,146,779
+
+Empleado asalariado # 2: 
+Sueldo base: 2,000,000
+Subsidios: 226,779
+Descuentos de ley: 160,000
+Total a recibir: 2,066,779
+
+Empleado asalariado # 3: 
+Sueldo base: 3,000,000
+Subsidios: 226,779
+Descuentos de ley: 240,000
+Total a recibir: 2,986,779
+
+Empleado asalariado # 4: 
+Sueldo base: 4,000,000
+Subsidios: 226,779
+Descuentos de ley: 320,000
+Total a recibir: 3,906,779
+
+Empleado asalariado # 5: 
+Sueldo base: 5,000,000
+Subsidios: 226,779
+Descuentos de ley: 400,000
+Total a recibir: 4,826,779
+
